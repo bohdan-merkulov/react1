@@ -64,7 +64,7 @@ function ExpenseForm(props) {
             onChange={(event) => inputChangeHandler("date", event.target.value)}
             type="date"
             min="2019-01-01"
-            max="2022-12-31"
+            max="2024-05-13"
           />
         </div>
       </div>
